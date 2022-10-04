@@ -1,19 +1,9 @@
-━━━━━━━━━━━━━━━━━━━━
-
-<h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
-</h2>
-
-<p align="center">
-  <img src="https://github.com/AnonymousR1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
-</p>
-
 
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg">
+  <img src="https://telegra.ph/file/cf006e4b76074a14fc595.jpg">
 </p>
 
 <p align="center">
